@@ -41,3 +41,4 @@ function jourTravaille() {
     console.log(`Il y a une erreur de date, veuillez entrer une date en 2020`);
   }
 }
+ 
