@@ -16,4 +16,4 @@ function sort(numbers, order) {
     console.log(numbers);
 }
 console.log("voici la même liste dans l'ordre choisi : ")
-sort(numbers, "asc");
+sort(numbers, "desc");
