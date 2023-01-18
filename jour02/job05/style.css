@@ -11,4 +11,5 @@ footer {
         width: 100%;
         background-color: rgb(226, 0, 0);
         transition: background-color 0.5s;
+        text-align: center;
 }
